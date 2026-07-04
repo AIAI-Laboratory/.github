@@ -96,3 +96,4 @@ AIAI Laboratory welcomes anyone passionate about AI, software, and technology. S
 
 ## Contact
 📧 **Email:** [theaiailab@gmail.com](mailto:theaiailab@gmail.com)
+🤗 Hugging Face: [aiai-laboratory](https://huggingface.co/aiai-laboratory) — Open models and datasets
