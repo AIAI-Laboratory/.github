@@ -59,7 +59,7 @@ Core areas:
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/DoThanh1611">
-  <img src="https://github.com/DoThanh1611" width="80" height="80" alt="truni46" style="border-radius: 50%;" />
+  <img src="https://github.com/DoThanh1611.png" width="80" height="80" alt="truni46" style="border-radius: 50%;" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
