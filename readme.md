@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./img/aiai%20lab.png" alt="AIAI Laboratory" width="400" />
+  <img src="./img/aiai%20lab.png" alt="AIAI Laboratory" width="100%" />
 </div>
 
 **AIAI Laboratory** (Artificial Intelligence & Advanced Innovation Laboratory) is a technology research and development team built by young people passionate about artificial intelligence and software — dedicated to turning AI into solutions that work in the real world.
@@ -92,5 +92,3 @@ AIAI Laboratory welcomes anyone passionate about AI, software, and technology. S
 ## Contact
 
 Contact details coming soon.
-
----
