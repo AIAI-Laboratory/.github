@@ -2,13 +2,13 @@
   <img src="../img/aiai%20lab.png" alt="AIAI Laboratory" width="100%" />
 </div>
 
-**AIAI Laboratory** (Artificial Intelligence & Advanced Innovation Laboratory) is a technology research and development team built by young people passionate about artificial intelligence and software — dedicated to turning AI into solutions that work in the real world.
+**AIAI Laboratory** (Artificial Intelligence & Advanced Innovation Laboratory) is a technology research and development team built by young people passionate about artificial intelligence and software, dedicated to turning AI into solutions that work in the real world.
 
 > *Advancing Technology, Advancing the World.*
 
 ## What We Do
 
-Our focus is **artificial intelligence and software**. We go beyond research to build production-ready technology that serves both communities and businesses.
+Our focus is on **artificial intelligence and software**. We go beyond research to build production-ready technology that serves both communities and businesses.
 
 Core areas:
 
@@ -58,6 +58,11 @@ Core areas:
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
+<a href="https://github.com/DoThanh1611">
+  <img src="https://github.com/DoThanh1611" width="80" height="80" alt="truni46" style="border-radius: 50%;" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://github.com/datvn21">
   <img src="https://github.com/datvn21.png" width="80" height="80" alt="datvn21" style="border-radius: 50%;" />
 </a>
@@ -90,5 +95,4 @@ AIAI Laboratory sets aside dedicated resources for community-facing projects —
 AIAI Laboratory welcomes anyone passionate about AI, software, and technology. Share an idea, report a bug, or contribute code to an open source project — every contribution matters.
 
 ## Contact
-
-Contact details coming soon.
+📧 **Email:** [theaiailab@gmail.com](mailto:theaiailab@gmail.com)
