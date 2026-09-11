@@ -121,7 +121,7 @@ AIAI Laboratory sets aside dedicated resources for community-facing projects —
 AIAI Laboratory welcomes anyone passionate about AI, software, and technology. Share an idea, report a bug, or contribute code to an open source project — every contribution matters.
 
 ## Contact
-- 📧 **Email:** [theaiailab@gmail.com](mailto:theaiailab@gmail.com)
+- 📧 **Email:** [info@aisq.science](mailto:info@aisq.science)
 - 🤗 **Hugging Face**: [aiai-laboratory](https://huggingface.co/aiai-laboratory) — Open models and datasets
 - 🌐 **Website**: [aisq.dev](https://aisq.dev/)
 - **Linkedin**: [aiai-laboratory](https://www.linkedin.com/company/aiai-laboratory/)
