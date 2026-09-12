@@ -2,34 +2,35 @@
   <img src="../img/aiai%20lab.png" alt="AIAI Laboratory" width="100%" />
 </div>
 
-**AIAI Laboratory** (Artificial Intelligence & Advanced Innovation Laboratory) is a technology research and development team built by young people passionate about artificial intelligence and software, dedicated to turning AI into solutions that work in the real world.
+**AIAI Laboratory** (Artificial Intelligence & Advanced Innovation Laboratory) is a technology research and development team formed by young people with a shared interest in artificial intelligence and software.
+
+We research, build, and maintain technology with a simple goal: make AI useful in real-world systems, products, and communities.
 
 > *Advancing Technology, Advancing the World.*
 
-## What We Do
+## What we do
 
-Our focus is on **artificial intelligence and software**. We go beyond research to build production-ready technology that serves both communities and businesses.
+Our work centers on artificial intelligence and software engineering. Alongside research and experimentation, we build systems that can be deployed and used by communities and businesses.
 
-Core areas:
+Our main areas of work include:
 
-- **AI & Machine Learning** — NLP, Computer Vision, Speech Processing, Graph Learning, Generative AI
-- **Software Engineering** — Web, mobile, and desktop applications, APIs, and system architecture
-- **Cloud & DevOps** — Cloud migration, CI/CD, containerization
-- **UI/UX Design** — User research, interface design, and product experience optimization
-- **Digital Transformation** — Advisory and delivery of digitalization solutions, integrating AI into real-world operations
+* AI & Machine Learning: NLP, Computer Vision, Speech Processing, Graph Learning, and Generative AI
+* Software Engineering: web, mobile, and desktop applications, APIs, and system architecture
+* Cloud & DevOps: cloud migration, CI/CD, and containerization
+* UI/UX Design: user research, interface design, and product experience
+* Digital Transformation: digitalization solutions and the integration of AI into existing operations
 
-## What We Value
+## What we value
 
-**Continuous learning.** Technology moves fast, and staying relevant means constantly updating, experimenting, and rebuilding when needed.
+Technology changes quickly, so continuous learning is part of how we work. We experiment, revisit old assumptions, and rebuild things when a better approach becomes available.
 
-**Open sharing.** We believe in open source — contributing back what we learn rather than keeping it to ourselves.
+We also believe in sharing what we learn. Open source gives us a practical way to contribute code, models, tools, and knowledge back to the wider community.
 
-**Real-world impact.** Every product we build is meant to solve a specific problem, not just showcase technical skill.
+Our projects should solve an actual problem. Technical complexity alone is not a goal; what matters is whether the result is useful to the people who use it.
 
-**Collaboration & accountability.** Open collaboration and respect for differing views keep us moving forward, alongside a strong sense of responsibility for the quality and safety of what we build.
+Collaboration comes with responsibility. We encourage different viewpoints and open discussion while holding ourselves accountable for the quality, reliability, and safety of what we build.
 
 ## Team
-
 
 <div align="center">
   <table>
@@ -105,23 +106,29 @@ Core areas:
   </table>
 </div>
 
-## Featured Projects
+## Featured projects
 
-AIAI Laboratory sets aside dedicated resources for community-facing projects — tools, platforms, and open resources that anyone can use or contribute to.
+We reserve part of our resources for projects that are open to the community, including tools, platforms, and other resources that people can use, study, or contribute to.
 
-- ***Updating soon...***
+*Projects are being updated.*
+
 <!-- Add project names and short descriptions below -->
-<!-- 
-- **[Project Name 1]** — Short description.
-- **[Project Name 2]** — Short description.
-- **[Project Name 3]** — Short description. -->
 
-## Get Involved
+<!--
+- **[Project Name 1]**: Short description.
+- **[Project Name 2]**: Short description.
+- **[Project Name 3]**: Short description.
+-->
 
-AIAI Laboratory welcomes anyone passionate about AI, software, and technology. Share an idea, report a bug, or contribute code to an open source project — every contribution matters.
+## Get involved
+
+If you are interested in AI, software, or technology, there are several ways to take part. You can propose an idea, report an issue, improve documentation, contribute code, or work with us on an open source project.
+
+Contributions do not have to be large to be useful.
 
 ## Contact
-- 📧 **Email:** [info@aisq.science](mailto:info@aisq.science)
-- 🤗 **Hugging Face**: [aiai-laboratory](https://huggingface.co/aiai-laboratory) — Open models and datasets
-- 🌐 **Website**: [aisq.dev](https://aisq.dev/)
-- **Linkedin**: [aiai-laboratory](https://www.linkedin.com/company/aiai-laboratory/)
+
+* 📧 **Email:** [info@aisq.science](mailto:info@aisq.science)
+* 🤗 **Hugging Face:** [aiai-laboratory](https://huggingface.co/aiai-laboratory) · Open models and datasets
+* 🌐 **Website:** [aisq.dev](https://aisq.dev/)
+* **LinkedIn:** [aiai-laboratory](https://www.linkedin.com/company/aiai-laboratory/)
