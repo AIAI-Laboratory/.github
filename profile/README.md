@@ -120,6 +120,9 @@ We reserve part of our resources for projects that are open to the community, in
 - **[Project Name 3]**: Short description.
 -->
 
+## Contributions
+![AIAI-Laboratory organization GitHub stats](https://aisq.dev/api/github-org-stats/AIAI-Laboratory?repos=6&limit=8&color=2f81f7)
+
 ## Get involved
 
 If you are interested in AI, software, or technology, there are several ways to take part. You can propose an idea, report an issue, improve documentation, contribute code, or work with us on an open source project.
