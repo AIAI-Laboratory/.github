@@ -132,6 +132,6 @@ Contributions do not have to be large to be useful.
 ## Contact
 
 * 📧 **Email:** [info@aisq.science](mailto:info@aisq.science)
-* 🤗 **Hugging Face:** [aiai-laboratory](https://huggingface.co/aiai-laboratory) · Open models and datasets
-* 🌐 **Website:** [aisq.dev](https://aisq.dev/)
+* 🤗 **Hugging Face:** [aiai-laboratory](https://huggingface.co/aiai-laboratory)
+* 🌐 **Website:** [aisq.science](https://aisq.science/)
 * **LinkedIn:** [aiai-laboratory](https://www.linkedin.com/company/aiai-laboratory/)
