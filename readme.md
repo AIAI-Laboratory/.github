@@ -115,6 +115,8 @@ AIAI Laboratory sets aside dedicated resources for community-facing projects —
 - **[Project Name 2]** — Short description.
 - **[Project Name 3]** — Short description. -->
 
+![AIAI-Laboratory organization GitHub stats](https://aisq.dev/api/github-org-stats/AIAI-Laboratory?repos=8&limit=10&color=ff3b30)
+
 ## Get Involved
 
 AIAI Laboratory welcomes anyone passionate about AI, software, and technology. Share an idea, report a bug, or contribute code to an open source project — every contribution matters.
