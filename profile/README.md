@@ -121,7 +121,7 @@ We reserve part of our resources for projects that are open to the community, in
 -->
 
 ## Contributions
-![AIAI-Laboratory organization GitHub stats](https://aisq.dev/api/github-org-stats/AIAI-Laboratory?repos=6&limit=8&color=2f81f7)
+![AIAI-Laboratory organization GitHub stats](https://aisq.dev/api/github-org-stats/AIAI-Laboratory?repos=8&limit=6&color=ff3b30)
 
 ## Get involved
 
